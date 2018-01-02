@@ -2,7 +2,7 @@
 
 ## Visual Studio
 
-Rainglow is a collection of color themes for a number of different editors and platforms. This repository consists of **250+ syntax and UI themes** for [Visual Studio](https://www.visualstudio.com).
+Rainglow is a collection of color themes for a number of different editors and platforms. This repository consists of **320+ syntax and UI themes** for [Visual Studio](https://www.visualstudio.com).
 
 To show support for the project, you can do any (or many!) of the following:
 

@@ -17,9 +17,19 @@ To show support for the project, you can do any (or many!) of the following:
 
 ### Manual Installation
 
+#### macOS
+
 Clone the repository and copy the contents of the themes directory into `~/Library/VisualStudio/7.0/ColorThemes/`.
 
-(Send a PR if you know the windows and linux locations please!)
+#### Windows
+
+1. Clone the repository and copy the contents of the themes directory into `%USERPROFILE%\Documents\Visual Studio 2017\Settings`.
+2. Start Visual Studio.
+3. Go to Tools > Import and Export Settings > Import selected environment settings.
+4. [Optional] Backup your current settings.
+5. Rainglow themes will be under "My Settings".
+
+(Send a PR if you know the linux location please!)
 
 ### Useful Information
 

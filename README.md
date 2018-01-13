@@ -15,21 +15,13 @@ To show support for the project, you can do any (or many!) of the following:
 - [Donate via PayPal.](https://paypal.me/daylerees)
 - [Donate via Monzo.](https://monzo.me/daylerees)
 
+
+
 ### Manual Installation
 
-#### macOS
+**PLEASE NOTE: These themes are only compatible with the MacOS version of Visual Studio. Windows is coming soon.**
 
 Clone the repository and copy the contents of the themes directory into `~/Library/VisualStudio/7.0/ColorThemes/`.
-
-#### Windows
-
-1. Clone the repository and copy the contents of the themes directory into `%USERPROFILE%\Documents\Visual Studio 2017\Settings`.
-2. Start Visual Studio.
-3. Go to Tools > Import and Export Settings > Import selected environment settings.
-4. [Optional] Backup your current settings.
-5. Rainglow themes will be under "My Settings".
-
-(Send a PR if you know the linux location please!)
 
 ### Useful Information
 
